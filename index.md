@@ -124,3 +124,14 @@ The classification goal is to predict if the client will subscribe a term deposi
   - Improved the depth of model
 
 ***
+
+
+[Tableau Dashboard - Covid 19](https://public.tableau.com/app/profile/romuald.tsafouet.demsong/viz/covid19projecttableau_16785211643950/covid19dashboard?publish=yes)
+
+ <img src="/images/Tableau_ss.png?raw=true"/>
+
+<b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
+
+<b>Project Objective:</b> Implementing Deep Neural Network with Keras for Plant diseases classification and recognition
+
+

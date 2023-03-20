@@ -130,8 +130,8 @@ The classification goal is to predict if the client will subscribe a term deposi
 
  <img src="/images/Tableau_ss.png?raw=true"/>
 
-<b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
+<b>Skills Used:</b> Data analytics, Tableau, Dashboard Vizualization.
 
-<b>Project Objective:</b> Implementing Deep Neural Network with Keras for Plant diseases classification and recognition
+<b>Project Objective:</b> To determine the number of COVID cases in each country at any given time and determine number of death per country including as an aggregate. Sub-objective was to detect the number of recovered poeple in each country.
 
 

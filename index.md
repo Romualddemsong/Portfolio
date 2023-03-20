@@ -128,7 +128,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 [Tableau Dashboard - Covid 19](https://public.tableau.com/app/profile/romuald.tsafouet.demsong/viz/covid19projecttableau_16785211643950/covid19dashboard?publish=yes)
 
- <img src="/images/Tableau_ss.png?raw=true"/>
+ <img src="images/Tableau_ss.png?raw=true"/>
 
 <b>Skills Used:</b> Data analytics, Tableau, Dashboard Vizualization.
 

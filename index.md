@@ -139,7 +139,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 [Tableau Dashboard - SALES INSIGHT FOR AN ELECTRONIC STORE IN INDIA](https://public.tableau.com/app/profile/romuald.tsafouet.demsong/viz/SALESINSIGHTFORANELECTRONICSTOREININDIA/Dashboard1?publish=yes)
 
- <img src="images/Tableau_ss.png?raw=true"/>
+ <img src="images/salesinsight.png?raw=true"/>
 
 <b>Skills Used:</b> Data analytics, Tableau, Dashboard Vizualization.
 

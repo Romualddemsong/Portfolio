@@ -134,4 +134,16 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 <b>Project Objective:</b> To determine the number of COVID cases in each country at any given time and determine number of death per country including as an aggregate. Sub-objective was to detect the number of recovered poeple in each country.
 
+***
+
+
+[Tableau Dashboard - SALES INSIGHT FOR AN ELECTRONIC STORE IN INDIA](https://public.tableau.com/app/profile/romuald.tsafouet.demsong/viz/SALESINSIGHTFORANELECTRONICSTOREININDIA/Dashboard1?publish=yes)
+
+ <img src="images/Tableau_ss.png?raw=true"/>
+
+<b>Skills Used:</b> Data analytics, Tableau, Dashboard Vizualization.
+
+<b>Project Objective:</b> The general manager was worried about the decline in sales for the business and the different regional managers could not give a clear picture of what is happenning. So the General manager requested for a dashboard with major KPI's that will detail business for each year at different market location.
+
+
 
